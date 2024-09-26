@@ -54,7 +54,7 @@ To run the program, execute the following command:
 ```
 
 ### Usage
-** Upon starting the program, a welcome message and main menu will be displayed. Choose an option by entering the corresponding number: **
+**Upon starting the program, a welcome message and main menu will be displayed. Choose an option by entering the corresponding number**
 
 - Buy Electronics
 - Buy Furniture
