@@ -130,7 +130,7 @@ void buyItem(Item items[], int size, bool isStudent) {
             int change = payment - price;
             cout << "Payment successful. Change: P" << change << endl;
 
-            // Decrease stock
+            // Decrease stocks
             items[choice - 1].stock--;
 
             // Print receipt
